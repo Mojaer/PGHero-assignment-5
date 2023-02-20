@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+* {
+    font-family: 'Inter', sans-serif;
+}
+
+.results {
+    list-style-type: decimal;
+    margin-left: 20px;
+}
+
+.result {
+    margin-left: 10px;
+    margin-bottom: 3px;
+}
